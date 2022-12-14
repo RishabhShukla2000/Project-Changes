@@ -1,0 +1,65 @@
+PSPDM.Components.MvcApp/Scripts/Login/Login.js
+
+1069  var isvalid = true;
+1151  var isValid = regex.test($("#txtMobile").val()); 
+
+PSPDM.Components.MvcApp/Scripts/functions.js
+
+120  var $elem = '#sidebar';
+121  var $elem2 = '#menu-trigger';
+212  var $animArray = [];		
+213  let $animation = $(this).data('animation');
+215  var $animationIn = 'animated '+$animArray[0];
+216  var $animationOut = 'animated '+ $animArray[1];  
+217  var $animationDuration = ''
+233  var $this = $(this);
+234  var $dropdownMenu = $this.find('.dropdown-menu');
+320  let html = '<div class="weather-status">'+weather.temp+'&deg;'+weather.units.temp+'</div>';
+802  let x = $(this).closest('.lv-header-alt').find('.lvh-search'); 
+
+PSPDM.Dealer.MvcApp/Scripts/Cob/CobDetails.js
+
+788  for (let i = 0; i < gridData.length; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/IndentOrderPlacement/IndentOrderPlacement.js
+
+614  Doubt
+
+PSPDM.Dealer.MvcApp/Scripts/Query/AddTicket.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/Query/TrackTicket.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/Report/AnalyticalReport.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/Report/AnalyticalReport.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/SalesInventory/SalesInventory.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/SalesInventory/SalesInventoryOld.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/ServiceCallLog/ServiceCallLog.js
+
+
+
+PSPDM.Dealer.MvcApp/Scripts/Settings/Settings.js
+
+
+
+PSPDM.PanasonicAutoServices.MvcApp/Scripts/PanasonicAutoServiceCallLog/AutoServiceCallLog.js
+
+
+
+PSPDM.ServiceCallLog.MvcApp/Scripts/ServiceCallLog/ServiceCallLog.js
+
