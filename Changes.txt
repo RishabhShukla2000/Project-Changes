@@ -1,0 +1,84 @@
+PSPDM.Components.MvcApp/Scripts/Login/Login.js
+
+1069  var isvalid = true;
+1151  var isValid = regex.test($("#txtMobile").val()); 
+
+PSPDM.Components.MvcApp/Scripts/functions.js
+
+120  var $elem = '#sidebar';
+121  var $elem2 = '#menu-trigger';
+212  var $animArray = [];		
+213  let $animation = $(this).data('animation');
+215  var $animationIn = 'animated '+$animArray[0];
+216  var $animationOut = 'animated '+ $animArray[1];  
+217  var $animationDuration = ''
+233  var $this = $(this);
+234  var $dropdownMenu = $this.find('.dropdown-menu');
+320  let html = '<div class="weather-status">'+weather.temp+'&deg;'+weather.units.temp+'</div>';
+802  let x = $(this).closest('.lv-header-alt').find('.lvh-search'); 
+
+PSPDM.Dealer.MvcApp/Scripts/Cob/CobDetails.js
+
+788  for (let i = 0; i < gridData.length; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/IndentOrderPlacement/IndentOrderPlacement.js
+
+612 let initialCount = 0;
+
+PSPDM.Dealer.MvcApp/Scripts/Query/AddTicket.js
+
+162  for (let i = 0; i < result.Results.length ; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/Query/TrackTicket.js
+
+231  for (let i = 0; i < result.Results.length ; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/Report/AnalyticalReport.js
+
+124 for (let i = 0; i < result.Results.length ; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/Report/SubdealerSelloutReport.js
+
+98  for (let i = 0; i < result.Results.length; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/SalesInventory/SalesInventory.js
+
+678 for (let i = 0; i < result.Results.length; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/SalesInventory/SalesInventoryOld.js
+
+210 for (let i = 0; i < result.Results.length; i++) {
+680 var modelNoDataSource = [];
+
+PSPDM.Dealer.MvcApp/Scripts/ServiceCallLog/ServiceCallLog.js
+
+329 let valid = false;
+1000 for (let i = 0; i < PostalAreaNameDatasource.length; i++) {
+
+PSPDM.Dealer.MvcApp/Scripts/Settings/Settings.js
+
+29 for (let i = 0; i < BusinessSlabData.length; i++) {
+
+PSPDM.PanasonicAutoServices.MvcApp/Scripts/PanasonicAutoServiceCallLog/AutoServiceCallLog.js
+
+107 let valid = false;
+891 for (let i = 0; i < lookUpMasterdata.length; i++) {
+
+PSPDM.ServiceCallLog.MvcApp/Scripts/ServiceCallLog/ServiceCallLog.js
+
+902 let  valid = false;
+
+Commented out webkit-transition lines because every browser supports transition in CSS. Change was done at following files and corresponding lines :
+
+PSPDM.ADPasswordReset.MvcApp/Content/sweetalert.css(Lines 85 and 92)
+PSPDM.Components.MvcApp/Content/sweetalert.css(Lines 85 and 92)
+PSPDM.Dealer.MvcApp/Content/sweetalert.css(Lines 82 and 89)
+PSPDM.PanasonicAutoServices.MvcApp/Content/sweetalert.css(Lines 82 and 89)
+PSPDM.ServiceCallLog.MvcApp/Content/sweetalert.css(Lines 83 and 90)
+
+PSPDM.ServiceCallLog.MvcApp/Scripts/jquery.contextMenu.js
+
+907 return false;
+
+
+
